@@ -45,7 +45,7 @@ This project took me a while to understand. I tried researching what the videos 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Nayla Boorady]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
